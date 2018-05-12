@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1635
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Hopkins_Adams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44326#Wanted--A-HusbandA-Novel
 gutenberg_issued: '2013-12-01'
 gutenberg_type: Text
 identifiers:
